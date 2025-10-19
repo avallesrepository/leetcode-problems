@@ -8,6 +8,7 @@ Note: A leaf is a node with no children.
 
 Example 1:
 
+![ex_depth](https://github.com/user-attachments/assets/9a07a5ae-e98a-4c1a-9c45-d9332658a388)
 
 Input: root = [3,9,20,null,null,15,7]
 Output: 2
